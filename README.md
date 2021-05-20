@@ -1,3 +1,6 @@
+# Heroku deplyed live app link
+https://word-frequency-counterr.herokuapp.com/
+
 # Word Frequency Counter
 
 The objective is to fetch the data from the following MarkDown File and display N^ number of words in a tabular form
@@ -56,4 +59,16 @@ handleInputChange = async (inputText) => {
 
     }
 ```
+# Test Cases With Screenshots
+ If the number entered is less than or equal to 0:
+ ![alt text](./assets/0.png "Image")
+
+ ![alt text](./assets/-1.png "Image")
+
+ When entered number is greater than 0 the table is displayed
+ ![alt text](./assets/1.png "Image")
+
+ ![alt text](./assets/3.png "Image")
+
+ ![alt text](./assets/5.png "Image")
 
