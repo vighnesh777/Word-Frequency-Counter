@@ -1,4 +1,4 @@
-# Heroku deplyed live app link
+# Heroku deployed live app link
 https://word-frequency-counterr.herokuapp.com/
 
 # Word Frequency Counter
