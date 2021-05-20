@@ -1,0 +1,36 @@
+.head-container
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+}
+.head-image
+{
+    width:350px;
+
+}
+
+.head-image-expanded
+{
+    min-width:300px;
+    max-width:350px;
+    transition: 1s;
+}
+
+.head-image-contracted
+{
+    max-width: 100px;
+    min-width: 80px;
+    transition: 1s;
+}
+.head-text
+{
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    text-decoration: none;
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
