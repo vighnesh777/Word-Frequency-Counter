@@ -49,7 +49,7 @@ and stored in object. The text raw data is fetched from the url using fetch code
             .then(data => this.setState({ data: data }))
     }
 ```
-The entered input is the stored in the inputNum variable in the state
+The entered input is then stored in the inputNum variable in the state
 ```
 handleInputChange = async (inputText) => {
         await this.setState({
