@@ -1,5 +1,5 @@
 {
-  "name": "Word Frequency Counter",
+  "name": "word-frequency-counter",
   "version": "0.1.0",
   "engines": {
     "node": "12.21.0",
